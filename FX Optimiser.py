@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct  6 12:05:43 2020
-
 @author: Aakash
 """
 
