@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Aakash Patel
+@author: Aakash
 """
 #imports
 import math
